@@ -1,0 +1,88 @@
+*{
+    box-sizing: border-box;
+}
+
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.site-header {
+    padding: 5px;
+    text-align: center;
+    background-color: mediumslateblue;
+    color: white;
+    font-family: roboto;
+}
+.nav-p1{
+    background-color: mediumslateblue;
+    text-align: center;
+}
+.nav-p1:hover{
+    text-decoration: none
+}
+.nav-link{
+    display: block;
+    color: white;
+    text-decoration: none
+}
+.nav-link:hover{
+    background-color: #150ABC;
+    text-decoration: none
+}
+.h1{
+    text-align: center;
+}
+.h2{
+    padding: 16px;
+}
+.h3{
+    background: #EBEBEB;
+    border-radius: 16px 16px 0px 0px;
+    box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.15);
+    margin-top: 0;
+}
+.p{
+    padding: 16px;
+}
+.text-accent{
+    color: mediumslateblue;
+}
+.section{
+    margin: 16px;
+    padding: 16px;
+}
+.article{
+    box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.15);
+    border-radius: 16px;
+    padding: 16px;
+    margin: 16px;
+}
+.btn{
+    background-color: mediumslateblue;
+    color:white;
+    border-radius: 9999px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+}  
+.div{
+    text-align: center;
+}
+.footer{
+    background-color: mediumslateblue;
+    color: white;
+    padding: 25px 0px;
+}
+.footer-link{
+    display: block;
+    color: white;
+    text-decoration: none
+}
+
+    
+    
